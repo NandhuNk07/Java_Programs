@@ -15,15 +15,16 @@ public class NumericString {
         Double doubleValue = new Double(numericString);
 		
     
-		System.out.println("Integer value: "+intValue);
-		System.out.println("Long value: "+longValue);
-		System.out.println("Float value: "+floatValue);
-		System.out.println("Double value: "+doubleValue);
+		System.out.println("Integer num: "+intNum);
+		System.out.println("Long num: "+longNum);
+		System.out.println("Float num: "+floatNum);
+		System.out.println("Double num: "+doubleNum);
 
 		
 	}
 
 }
+
 
 
 
